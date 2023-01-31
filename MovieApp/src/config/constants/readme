@@ -1,0 +1,7 @@
+! For Project Structure
+
+-> Fonts folder contains our custom Fonts required from the client
+
+-> Images folder contains app local images
+
+-> Icons folder contains Custom icons | ps: i proparly use react-native-vector-icons
